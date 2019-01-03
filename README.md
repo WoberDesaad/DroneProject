@@ -1,2 +1,1 @@
-# DroneProject
-Drone Project
+# ETEC-4301-Design-Lab-Senior-Project
